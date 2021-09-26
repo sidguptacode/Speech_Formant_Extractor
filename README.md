@@ -1,5 +1,9 @@
 # Speech Formant Analysis
 
+## Authors
+
+Sid Gupta, Gaetano Di-Caterina (Supervisor), Wendy Cohen (Supervisor)
+
 ## Project description
 A repository for all code related to speech processing with formant analysis. A Django server can also be found here, in the formant_extractor_server folder.
 
