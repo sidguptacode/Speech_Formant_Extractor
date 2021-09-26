@@ -1,0 +1,1 @@
+CURR_DIR_PATH = "/Users/sidgupta/Desktop/Smart-voice-repo/Smart-voice-analysis"
